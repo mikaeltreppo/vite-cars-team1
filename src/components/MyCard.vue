@@ -1,5 +1,5 @@
 <template>
-//<div class="card m-3"  style="width: 18rem;">
+<div class="card m-3"  style="width: 18rem;">
     <div class="card-body">
         <img src="https://picsum.photos/200/300" class="card-img-top" alt="...">
         <h5 class="card-title">{{ car.brand}}</h5>
